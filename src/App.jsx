@@ -1,5 +1,4 @@
 function App() {
-  return<><h1 className="text-3xl font-bold underline bg-red-200">Hello world!</h1><div>Soy el Padre</div><div> Soy el <Hijo></Hijo></div></>
+  return<h1 className="text-3xl font-bold underline bg-red-200">Hello world!</h1>
 }
-
 export default App
